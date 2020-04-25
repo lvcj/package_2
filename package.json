@@ -1,6 +1,6 @@
 {
   "name": "package_2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/lvcj/package_2#readme",
   "dependencies": {
     "react": "^16.13.1"
-  }
+  },
+  "gitHead": "00f875341d1a79e5145a92e8dd8a4a4be92d3f91"
 }
