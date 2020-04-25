@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lvcj/package_2/issues"
   },
-  "homepage": "https://github.com/lvcj/package_2#readme"
+  "homepage": "https://github.com/lvcj/package_2#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
